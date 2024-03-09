@@ -1,0 +1,37 @@
+{
+	"nodes":[
+		{"id":"2c466a378664cbc4","type":"text","text":"네크로맨서 - 영혼카드와 마물 카드로 분리 기존 인스크립션과 동일하게 진행","x":-100,"y":200,"width":250,"height":100,"color":"5"},
+		{"id":"adcf9daff590e250","type":"text","text":"마법사\n장비카드에 마물의 생명을 부여하여 싸움 ","x":-551,"y":-447,"width":250,"height":97,"color":"#5f42d7"},
+		{"id":"75b1dfea198ae045","type":"text","text":"0. 병사 (0/1) - 지휘관의 다람쥐 역할/ 5~ 6장 지급\n1. 도적 (2/1) 영혼 1개\n2. 산적 (3/2) 영혼 2개\n3. 징집병 (1/2) 영혼 2개 [징집: 무작위 장비카드를 장착]\n4. 용병 (1/2) 영혼 1개 [단합: 다른 용병 하나당 공격력 1증가]\n5. 의무병 (1/4) 영혼 2개[응급처치: 턴이끝날때 단한번 무작위 아군병사카드 2회복]\n6. 광전사 (3/2) 영혼 2개 [격노 :소환시 한번만 공격을 2번 함]\n7. 호위기사 (0/5) 영혼 2개[수호: 빈공간의 공격이 들어갈시 대신 맞음]\n8. 추적자 (1/1) 영혼 1개 우측에 [사냥개 (2/1)] 추가\n9. 기사단장(5/5) 영혼 4개[선발대: 징집병 의무병 호위기사 소환 ]\n10. 용병대 (3/5)영혼 3개 [모집: 양옆에 용병 둘 소환],[단합: 다른 용병 하나당 공격력 1증가]\n11. 암살자(1/1) 영혼1개 [은신: 상대턴일경우 빈공간으로취급함] ,[급습: 공격2번 실행 ]","x":420,"y":135,"width":340,"height":725,"color":"3"},
+		{"id":"d83ff53839b3ef41","type":"text","text":"인스크립션 카드 규칙 \n기본적으로 피1 코스트 위주\n피2 일때 공격력이 강하거나 체력이 좋음.  (1/1)일 경우 좋은 특성을 부여 Ex) 즉사 : 공격시 상대의 카드의 체력을 무시하고 바로 사망\n피2 개","x":920,"y":-363,"width":396,"height":632},
+		{"id":"1da8ff141f01a57e","type":"text","text":"1. 까마귀 (2/1) 영혼 1개 \n2. 하이에나 (2/3)  영혼 2개\n3. 고블린 (1/1) 영혼 1개 [급습: 공격2번 실행 ]\n4. 킹 고블린 (1/2)영혼 2개 [대장: 고블린들에게 공격력 1증가]\n5. 벤시 (1/4) 영혼 3개 [공포 : 상대방의 공격력이 1인 카드는 0으로 만듦]\n6. 트롤(4/6) 영혼 3개[나른함: 50% 확률 로 공격 불가(잠을잠)]\n7. 리치 (2/1) 영혼 2개 [계약이행: 왼쪽에 속박된 원혼 (0/2)소환]\n8. 지박령(0/4) 영혼 1개 [수호: 빈공간의 공격이 들어갈시 대신 맞음]\n9. 부유령(3/1)영혼 2개 [이동: 주변에 빈공간이 있을 경우 무작위 위치로 이동]\n10. 리빙 아머 (1/7)영혼 3개[수호: 빈공간의 공격이 들어갈시 대신 맞음]","x":-660,"y":135,"width":387,"height":765,"color":"4"},
+		{"id":"9837ceebc660ceaa","type":"text","text":"마물 카드","x":-273,"y":-20,"width":140,"height":60,"color":"4"},
+		{"id":"658d8617198585cc","type":"text","text":"병사 카드","x":180,"y":-20,"width":140,"height":60,"color":"3"},
+		{"id":"bee4aaf6e720fdb5","type":"text","text":"장비 카드","x":-48,"y":-447,"width":148,"height":60,"color":"#ffffff"},
+		{"id":"a577c70acab2fa89","type":"text","text":"지휘관- 장비와 병사를 별도로 분리하여 병사를 내고 장비로병사를 강화시킬수 있음","x":380,"y":-446,"width":250,"height":119,"color":"2"},
+		{"id":"3f70cace6a044c84","type":"text","text":"검\n창\n철제갑옷\n가죽 갑옷\n로브\n활\n단검\n의식용 단검\n\n","x":-99,"y":-980,"width":250,"height":311},
+		{"id":"c9010d6c38d5e247","type":"text","text":"1. 무작위로 카드 4장 부여\n2. 장비카드 또는 병사카드를 뽑음\n3. 병사카드는 완전히 섞여있음\n4. 장비카드는 필드에 소환시 1회용. 상대 턴으로 넘어갈때 사라짐\n5. 병사 카드가 장비를 착용시 [장비 카드]을든 [병사 카드] 가 추가됨","x":335,"y":-759,"width":340,"height":239},
+		{"id":"7f6a8b7b8006d7df","type":"text","text":"데모에서는 네크로맨서 기준으로 진행\n마물 카드와 병사 카드위주로만 제작","x":-133,"y":-240,"width":343,"height":183,"color":"1"},
+		{"id":"840524af0cd7d65b","type":"text","text":"영혼 카드 (0/1) 무제한\n영혼 카드 1장 과  나머지 카드 3장을 받음\n스타트 덱","x":-130,"y":400,"width":311,"height":462},
+		{"id":"19baaefa694a29e9","type":"text","text":"","x":-86,"y":660,"width":250,"height":160},
+		{"id":"0fc9b4c4cfbe8df6","type":"text","text":"아이템(룬)\n:필드 1개를 바쳐 상대방에게 1의 데미지\n","x":-960,"y":-350,"width":260,"height":389},
+		{"id":"640d397208d5bfdb","x":-1200,"y":60,"width":250,"height":60,"type":"text","text":"체력은 계기판 같은걸로"},
+		{"id":"fb2d1931b7b49fe2","x":-1275,"y":240,"width":375,"height":375,"type":"file","file":"졸작/Pasted image 20240309234125.png"},
+		{"id":"7f8d64729ae44516","x":-1264,"y":752,"width":250,"height":60,"type":"text","text":"침이 움직때는 빛나는 이펙트로 움직임"}
+	],
+	"edges":[
+		{"id":"b8c706509b4b32b1","fromNode":"9837ceebc660ceaa","fromSide":"bottom","toNode":"2c466a378664cbc4","toSide":"left","color":"5"},
+		{"id":"6e5f155565ac17cd","fromNode":"658d8617198585cc","fromSide":"bottom","toNode":"2c466a378664cbc4","toSide":"right","color":"5"},
+		{"id":"fd586bb40fba6ab1","fromNode":"bee4aaf6e720fdb5","fromSide":"left","toNode":"adcf9daff590e250","toSide":"right"},
+		{"id":"4f180ecbe11e070c","fromNode":"bee4aaf6e720fdb5","fromSide":"right","toNode":"a577c70acab2fa89","toSide":"left"},
+		{"id":"e447c01dff763555","fromNode":"658d8617198585cc","fromSide":"top","toNode":"a577c70acab2fa89","toSide":"left"},
+		{"id":"de71d270b4c8c5c4","fromNode":"9837ceebc660ceaa","fromSide":"top","toNode":"adcf9daff590e250","toSide":"right"},
+		{"id":"475511dffd5c053a","fromNode":"658d8617198585cc","fromSide":"right","toNode":"75b1dfea198ae045","toSide":"top","color":"3"},
+		{"id":"fc6d0052582eed19","fromNode":"9837ceebc660ceaa","fromSide":"left","toNode":"1da8ff141f01a57e","toSide":"top","color":"4"},
+		{"id":"9097ba821c6e2ac0","fromNode":"2c466a378664cbc4","fromSide":"bottom","toNode":"840524af0cd7d65b","toSide":"top"},
+		{"id":"524e654b37914f9f","fromNode":"a577c70acab2fa89","fromSide":"top","toNode":"c9010d6c38d5e247","toSide":"bottom"},
+		{"id":"6a49876637d3a98c","fromNode":"bee4aaf6e720fdb5","fromSide":"top","toNode":"3f70cace6a044c84","toSide":"bottom"},
+		{"id":"7e54861566ab6654","fromNode":"640d397208d5bfdb","fromSide":"bottom","toNode":"fb2d1931b7b49fe2","toSide":"top"},
+		{"id":"a6aef74754b7bf90","fromNode":"fb2d1931b7b49fe2","fromSide":"bottom","toNode":"7f8d64729ae44516","toSide":"top"}
+	]
+}

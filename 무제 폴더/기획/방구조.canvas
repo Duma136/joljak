@@ -1,0 +1,37 @@
+{
+	"nodes":[
+		{"id":"023a213e63c34255","type":"text","text":"","x":-450,"y":170,"width":670,"height":670},
+		{"id":"78ba1a838031ad96","type":"text","text":"커튼\n화분\n배경은 산으로","x":-820,"y":420,"width":177,"height":119},
+		{"id":"413f32a6c109c637","type":"text","text":"\n    식탁","x":-140,"y":460,"width":174,"height":128,"color":"#7f4848"},
+		{"id":"667c93a5d54aa4f1","type":"text","text":"창\n\n문","x":-475,"y":280,"width":50,"height":140},
+		{"id":"ff2e60c670145f16","type":"text","text":"책장","x":-448,"y":170,"width":113,"height":60},
+		{"id":"b5b9952174f84dae","type":"text","text":"책장","x":-335,"y":170,"width":113,"height":60},
+		{"id":"1107d4b4ecc6a676","type":"text","text":"소파","x":-146,"y":627,"width":188,"height":60},
+		{"id":"575c387750f6b4d0","type":"text","text":"소파","x":-146,"y":360,"width":188,"height":60},
+		{"id":"1dc32af1f2085d20","type":"text","text":"벽난로","x":120,"y":170,"width":100,"height":80,"color":"1"},
+		{"id":"f7cf5533e18925ab","type":"text","text":"그림","x":-140,"y":145,"width":119,"height":50},
+		{"id":"3b6fd0a543482f8f","type":"text","text":"문","x":195,"y":445,"width":50,"height":143},
+		{"id":"9b0e1de5e00bb583","type":"text","text":"기사 조각상","x":159,"y":618,"width":119,"height":69,"color":"#ffffff"},
+		{"id":"ee5d69e5aec986db","type":"text","text":"마법사 조각상","x":159,"y":360,"width":118,"height":60,"color":"#ffffff"},
+		{"id":"29ae11283e3d9d5d","type":"text","text":"물약 연구대","x":-21,"y":780,"width":239,"height":60},
+		{"id":"81fe3b054b9b6ae1","type":"text","text":"포션/ 실린더","x":6,"y":960,"width":164,"height":60},
+		{"id":"f1a5500ae43b5128","type":"text","text":"중간에 네크로노미콘 섞여있음","x":-450,"y":-20,"width":222,"height":69},
+		{"id":"0e2007cd6ad48043","type":"text","text":"창\n\n문","x":-475,"y":607,"width":50,"height":140},
+		{"id":"1bdae9566252c2a2","type":"text","text":"깃\n\n발","x":-475,"y":441,"width":50,"height":147},
+		{"id":"ba9f89b18049c64d","type":"text","text":"의자","x":120,"y":250,"width":115,"height":60},
+		{"id":"ed11b97fe66eeaa5","type":"text","text":"점성술사 옆에는 가방이 놓여져있음\n가방에는 스크롤이 튀어나와았음","x":-820,"y":674,"width":250,"height":123,"color":"6"},
+		{"id":"780b28d3556f5a1a","type":"text","text":"벽은 회색계열의 석재 벽돌 위주","x":195,"y":960,"width":250,"height":60},
+		{"id":"18d7a08a775ef276","type":"text","text":"점성술사","x":-61,"y":360,"width":103,"height":60,"color":"6"},
+		{"id":"9f4e1b893bad7ac5","type":"text","text":"플레이어","x":-80,"y":627,"width":131,"height":60,"color":"3"},
+		{"id":"0c4d0468fe970af4","type":"text","text":"원형책상","x":-396,"y":698,"width":115,"height":112},
+		{"id":"a197fe308e6fb5b6","type":"text","text":"네크로노미콘을 꺼내면 식탁위에 놓여짐","x":-390,"y":900,"width":250,"height":120,"color":"#563636"}
+	],
+	"edges":[
+		{"id":"2374b765e61295ec","fromNode":"0e2007cd6ad48043","fromSide":"left","toNode":"78ba1a838031ad96","toSide":"right"},
+		{"id":"9cb59577ba24b479","fromNode":"667c93a5d54aa4f1","fromSide":"left","toNode":"78ba1a838031ad96","toSide":"right"},
+		{"id":"2fecde2a0590dac3","fromNode":"29ae11283e3d9d5d","fromSide":"bottom","toNode":"81fe3b054b9b6ae1","toSide":"top"},
+		{"id":"c5032398f6cf638e","fromNode":"b5b9952174f84dae","fromSide":"top","toNode":"f1a5500ae43b5128","toSide":"bottom"},
+		{"id":"20a8aecce388ab36","fromNode":"18d7a08a775ef276","fromSide":"left","toNode":"ed11b97fe66eeaa5","toSide":"top","color":"6"},
+		{"id":"acfba6e3ee05a0e6","fromNode":"023a213e63c34255","fromSide":"bottom","toNode":"780b28d3556f5a1a","toSide":"top"}
+	]
+}

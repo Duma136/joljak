@@ -24,7 +24,8 @@
 		{"id":"18d7a08a775ef276","type":"text","text":"점성술사","x":-61,"y":360,"width":103,"height":60,"color":"6"},
 		{"id":"9f4e1b893bad7ac5","type":"text","text":"플레이어","x":-80,"y":627,"width":131,"height":60,"color":"3"},
 		{"id":"0c4d0468fe970af4","type":"text","text":"원형책상","x":-396,"y":698,"width":115,"height":112},
-		{"id":"a197fe308e6fb5b6","type":"text","text":"네크로노미콘을 꺼내면 식탁위에 놓여짐","x":-390,"y":900,"width":250,"height":120,"color":"#563636"}
+		{"id":"a197fe308e6fb5b6","type":"text","text":"네크로노미콘을 꺼내면 식탁위에 놓여짐","x":-390,"y":900,"width":250,"height":120,"color":"#563636"},
+		{"id":"815be41eb21c30a1","x":-127,"y":-143,"width":250,"height":83,"color":"6","type":"text","text":"가면은 마녀 / 역병 의사 \n보스는 듀라한 머리 "}
 	],
 	"edges":[
 		{"id":"2374b765e61295ec","fromNode":"0e2007cd6ad48043","fromSide":"left","toNode":"78ba1a838031ad96","toSide":"right"},
@@ -32,6 +33,7 @@
 		{"id":"2fecde2a0590dac3","fromNode":"29ae11283e3d9d5d","fromSide":"bottom","toNode":"81fe3b054b9b6ae1","toSide":"top"},
 		{"id":"c5032398f6cf638e","fromNode":"b5b9952174f84dae","fromSide":"top","toNode":"f1a5500ae43b5128","toSide":"bottom"},
 		{"id":"20a8aecce388ab36","fromNode":"18d7a08a775ef276","fromSide":"left","toNode":"ed11b97fe66eeaa5","toSide":"top","color":"6"},
-		{"id":"acfba6e3ee05a0e6","fromNode":"023a213e63c34255","fromSide":"bottom","toNode":"780b28d3556f5a1a","toSide":"top"}
+		{"id":"acfba6e3ee05a0e6","fromNode":"023a213e63c34255","fromSide":"bottom","toNode":"780b28d3556f5a1a","toSide":"top"},
+		{"id":"af00bb5839c26a67","fromNode":"18d7a08a775ef276","fromSide":"top","toNode":"815be41eb21c30a1","toSide":"bottom","color":"6"}
 	]
 }

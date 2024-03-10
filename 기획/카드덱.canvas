@@ -16,7 +16,7 @@
 		{"id":"19baaefa694a29e9","type":"text","text":"","x":-86,"y":660,"width":250,"height":160},
 		{"id":"0fc9b4c4cfbe8df6","type":"text","text":"아이템(룬)\n:필드 1개를 바쳐 상대방에게 1의 데미지\n","x":-960,"y":-350,"width":260,"height":389},
 		{"id":"640d397208d5bfdb","x":-1200,"y":60,"width":250,"height":60,"type":"text","text":"체력은 계기판 같은걸로"},
-		{"id":"fb2d1931b7b49fe2","x":-1275,"y":240,"width":375,"height":375,"type":"file","file":"졸작/Pasted image 20240309234125.png"},
+		{"id":"fb2d1931b7b49fe2","x":-1275,"y":240,"width":375,"height":375,"type":"file","file":"졸작/joljak/모델링/Pasted image 20240309234125.png"},
 		{"id":"7f8d64729ae44516","x":-1264,"y":752,"width":250,"height":60,"type":"text","text":"침이 움직때는 빛나는 이펙트로 움직임"}
 	],
 	"edges":[

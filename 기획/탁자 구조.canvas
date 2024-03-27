@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"cfeaac6334d4f9d2","type":"file","file":"졸작/joljak/스크린샷, 2024-03-28 오전 1.51.42.png","x":-680,"y":-360,"width":1060,"height":737},
+		{"id":"f0b11f6f0d60a2d8","type":"text","text":"저울 대신 나무 재질의 판 하나로 점수를 만들 예정","x":-1040,"y":-120,"width":250,"height":100},
+		{"id":"f49e80eebc54da13","type":"text","text":"카드는 좌측 하단에 비스듬히 세울수 있게 따로 파고 보기 편 하게 할 예정","x":-1022,"y":143,"width":250,"height":117},
+		{"id":"ed1dfdefe5ea8821","type":"text","text":"플레이어","x":-277,"y":462,"width":157,"height":60},
+		{"id":"1ac1f4841e14a8df","x":460,"y":-150,"width":250,"height":60,"type":"text","text":"옆에 예비 병사 장기말 (최대 3개)"},
+		{"id":"d8b13ca5b4cf89f0","x":460,"y":83,"width":250,"height":60,"type":"text","text":"오브젝트는 이정도로 변경함"},
+		{"id":"f79f90a31cb4af20","type":"text","text":"상인","x":-275,"y":-500,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"24ac4607fd1d614c","fromNode":"f0b11f6f0d60a2d8","fromSide":"right","toNode":"cfeaac6334d4f9d2","toSide":"left"},
+		{"id":"a04f4b6b2d982926","fromNode":"f49e80eebc54da13","fromSide":"right","toNode":"cfeaac6334d4f9d2","toSide":"left"},
+		{"id":"689c956a2179580b","fromNode":"ed1dfdefe5ea8821","fromSide":"top","toNode":"cfeaac6334d4f9d2","toSide":"bottom"},
+		{"id":"b3d7a87c1e7c31e5","fromNode":"f79f90a31cb4af20","fromSide":"bottom","toNode":"cfeaac6334d4f9d2","toSide":"top"},
+		{"id":"fcb1ea824a1e2eab","fromNode":"1ac1f4841e14a8df","fromSide":"left","toNode":"cfeaac6334d4f9d2","toSide":"right"}
+	]
+}

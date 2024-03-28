@@ -5,7 +5,7 @@
 		{"id":"818c3b8c8962c0cd","type":"text","text":"전투","x":-10,"y":80,"width":125,"height":60},
 		{"id":"f12e583beefe1feb","type":"text","text":"전투","x":-1,"y":-160,"width":107,"height":60},
 		{"id":"c2f52ac683fadaa6","type":"text","text":"이벤트","x":-5,"y":-300,"width":116,"height":60},
-		{"id":"aea95c66a4c9a1a3","type":"text","text":"특수전투","x":-14,"y":-420,"width":133,"height":60},
+		{"id":"aea95c66a4c9a1a3","type":"text","text":"보스","x":-14,"y":-420,"width":133,"height":60},
 		{"id":"1522477f6fe256b9","type":"text","text":"이벤트는 주로카드강화이벤트 혹은 카드선택 이벤트","x":300,"y":-220,"width":250,"height":90}
 	],
 	"edges":[

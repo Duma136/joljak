@@ -6,7 +6,7 @@
 		{"id":"ed1dfdefe5ea8821","type":"text","text":"플레이어","x":-277,"y":462,"width":157,"height":60},
 		{"id":"1ac1f4841e14a8df","x":460,"y":-150,"width":250,"height":60,"type":"text","text":"옆에 예비 병사 장기말 (최대 3개)"},
 		{"id":"d8b13ca5b4cf89f0","x":460,"y":83,"width":250,"height":60,"type":"text","text":"오브젝트는 이정도로 변경함"},
-		{"id":"f79f90a31cb4af20","type":"text","text":"상인","x":-275,"y":-500,"width":250,"height":60}
+		{"id":"f79f90a31cb4af20","type":"text","text":"상인","x":-182,"y":-500,"width":125,"height":60}
 	],
 	"edges":[
 		{"id":"24ac4607fd1d614c","fromNode":"f0b11f6f0d60a2d8","fromSide":"right","toNode":"cfeaac6334d4f9d2","toSide":"left"},

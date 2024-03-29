@@ -5,13 +5,13 @@
 		{"id":"a6ff00abd5d72d03","type":"text","text":"무적죽장군","x":414,"y":-340,"width":154,"height":60},
 		{"id":"1dc8bf3679442810","type":"file","file":"qfQEZiMSB1F6bKr7gyxUw0wjNmrZ9cdhs0nUFFCrDsJl7VCA7wpzwNlNKMyIeXbucKIzN8m2GYZt8kwV-THmngJSf8BsGbDZZnpkjtf8NKuMxY0HAe8B5X31d6BYoK5bgvx3qbODCZIN_RzJn7sdEw.webp","x":414,"y":-260,"width":400,"height":267},
 		{"id":"59d1c3f17d167858","type":"text","text":"화차","x":414,"y":40,"width":115,"height":60},
-		{"id":"f8745796438c6f9b","type":"text","text":"청나라 카드\n-쌍수도 3/1\n-철퇴3/2\n-월도 2/3\n-쇠뇌2/2 사격 :상대 카드를 무시하고 공격\n-장검3/2\n-쇠뇌2/2\n-조총2/1 은신 :공격후 상대턴일때 빈공간으로 취급된다.","x":114,"y":-260,"width":266,"height":540},
+		{"id":"f8745796438c6f9b","type":"text","text":"청나라 카드\n-쌍수도 3/1\n-철퇴3/2\n-월도 2/3\n-쇠뇌2/2 사격 :상대 카드를 무시하고 공격\n-장검3/2\n-조총2/1 은신 :공격후 상대턴일때 빈공간으로 취급된다\n기병","x":114,"y":-260,"width":266,"height":540},
 		{"id":"fae63dc0285863ff","type":"file","file":"KouaQJivWHNFVZadz5DLhlwWg_yy5_KkMi3sRns3RablsRq5uD7CKO8XbiQAtv3ws4E9VF3D33tGNi15XxvOh5c-_mQHJS-gcXs-6KERsxo72c9_Ju2197GhVhqPaZWpBEzSJYwRA6T0POeBydmsGQ.webp","x":414,"y":140,"width":145,"height":400},
 		{"id":"9ca3896c5b82066f","type":"text","text":"월도","x":580,"y":140,"width":113,"height":60},
-		{"id":"9457f1f4d9e8664a","type":"text","text":"조선 무기 목록\n인력 1 인분\n\n-환도 2/1\n-세총통1/1\n-목통 0/2 지뢰 :퇴각시 바로앞에카드에게 2의 데미지\n-국궁 1/1  이분 공격 : 양갈래로 2대를 때림(가운데 제외)\n-편곤 1/4   수호: 상대 가빈칸을 공격시 그장소로 이동\n-당파 1/3\n인력 2 인분\n\n-장검3/2\n-조총2/1 은신 :공격후 상대턴일때 빈공간으로 취급된다.\n-장창 1/1 독성 : 상대방을 공격시 체력 상관없이 즉사\n-쇠뇌2/2 사격 :상대 카드를 무시하고 공격\n-장태 0/7 수호 : 앞에 카드가 공격시 이카드가 막음 \n\n\n인력 3 인분\n\n-대완구 3/6\n-신기전 3/5 난사: 앞에 있는 카드에전부 데미지 \n-승자총통 4/2\n\n","x":-820,"y":-260,"width":480,"height":600},
 		{"id":"3cfd803d67ecac41","type":"file","file":"Pasted image 20240326172316.jpg","x":-820,"y":400,"width":399,"height":302},
 		{"id":"a18a4d765bbfbcfb","type":"text","text":"특성\n지뢰 :퇴각시 바로앞에카드에게 2의 데미지\n이분 공격 : 양갈래로 2대를 때림(가운데 제외)\n수호: 상대가 빈칸을 공격시 그장소로 이동\n사격 :상대 카드를 무시하고 직접공격\n난사: 앞에 있는 카드에전부 데미지 \n은신 :공격후 상대턴일때 빈공간으로 취급된다.","x":-300,"y":-260,"width":394,"height":330},
-		{"id":"fa71e2edc335b0c0","type":"text","text":"","x":-284,"y":365,"width":250,"height":186}
+		{"id":"fa71e2edc335b0c0","type":"text","text":"","x":-284,"y":365,"width":250,"height":186},
+		{"id":"9457f1f4d9e8664a","type":"text","text":"조선 무기 목록\n인력 1 인분\n\n-환도 2/1\n-세총통1/1\n-목통 0/2 지뢰 :퇴각시 바로앞에카드에게 2의 데미지\n-국궁 1/1  이분 공격 : 양갈래로 2대를 때림(가운데 제외)\n-편곤 1/4   수호: 상대 가빈칸을 공격시 그장소로 이동\n-당파 1/3\n인력 2 인분\n\n-장검3/2\n-조총2/1 은신 :공격후 상대턴일때 빈공간으로 취급된다.\n-장창 1/1 독성 : 상대방을 공격시 체력 상관없이 즉사\n-쇠뇌2/2 사격 :상대 카드를 무시하고 공격\n-장태 0/7 수호 : 앞에 카드가 공격시 이카드가 막음 \n\n\n인력 3 인분\n\n-대완구 3/6\n-신기전 3/5 난사: 앞에 있는 카드에전부 데미지 \n-승자총통 4/2\n\n","x":-820,"y":-260,"width":480,"height":600}
 	],
 	"edges":[
 		{"id":"b258ec39b651c3a1","fromNode":"ee1d507c7706a2fc","fromSide":"bottom","toNode":"a6ff00abd5d72d03","toSide":"right"},

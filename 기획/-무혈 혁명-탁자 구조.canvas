@@ -5,12 +5,12 @@
 		{"id":"d8b13ca5b4cf89f0","type":"text","text":"오브젝트는 이정도로 변경함","x":480,"y":276,"width":250,"height":60},
 		{"id":"cfeaac6334d4f9d2","type":"file","file":"졸작/joljak/스크린샷, 2024-03-28 오전 1.51.42.png","x":-660,"y":-167,"width":1060,"height":737},
 		{"id":"f2be983999f8eb0e","type":"text","text":"청색은 본인이 입은 데미지","x":-1500,"y":-402,"width":250,"height":60,"color":"5"},
-		{"id":"96cb82225a76ac84","type":"text","text":"가운데에 병사 장기말을 올려놓아 장기말이 움직임으로써 점수의 상태를 나타냄(인스크립션의 저울 역할)\n5가되었을 경우 장기말이 점수판 밖으로 나간다. 4점 기준으로 본인이 승리시 화상표 방향으로 이동 하고 끝난다.","x":-1440,"y":-314,"width":250,"height":295},
-		{"id":"d5f73a16838d5cad","type":"file","file":"졸작/joljak/예시.PNG","x":-1250,"y":-700,"width":400,"height":274},
-		{"id":"a5a237a513525654","type":"text","text":"붉은색은 상대 에게 가한 데미지","x":-850,"y":-402,"width":250,"height":116,"color":"1"},
 		{"id":"ed1dfdefe5ea8821","type":"text","text":"플레이어","x":-349,"y":640,"width":157,"height":60},
 		{"id":"f79f90a31cb4af20","type":"text","text":"상인","x":-80,"y":-275,"width":125,"height":60},
-		{"id":"f0b11f6f0d60a2d8","type":"text","text":"저울 대신 나무 재질의 판 하나로 점수를 만들 예정","x":-1022,"y":23,"width":250,"height":100}
+		{"id":"f0b11f6f0d60a2d8","type":"text","text":"저울 대신 나무 재질의 판 하나로 점수를 만들 예정","x":-1022,"y":23,"width":250,"height":100},
+		{"id":"a5a237a513525654","type":"text","text":"붉은색은 상대 에게 가한 데미지","x":-740,"y":-458,"width":250,"height":116,"color":"1"},
+		{"id":"d5f73a16838d5cad","type":"file","file":"졸작/joljak/예시.PNG","x":-1280,"y":-840,"width":508,"height":348},
+		{"id":"96cb82225a76ac84","type":"text","text":"가운데에 병사 장기말을 올려놓아 장기말이 움직임으로써 점수의 상태를 나타냄(인스크립션의 저울 역할)\n5가되었을 경우 장기말이 점수판 밖으로 나간다. 4점 기준으로 본인이 승리시 화상표 방향으로 이동 하고 끝난다.","x":-1405,"y":-272,"width":250,"height":295}
 	],
 	"edges":[
 		{"id":"24ac4607fd1d614c","fromNode":"f0b11f6f0d60a2d8","fromSide":"right","toNode":"cfeaac6334d4f9d2","toSide":"left"},
